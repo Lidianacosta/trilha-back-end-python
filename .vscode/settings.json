@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "OM Theme (Night Owl Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "off",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true
+    },
+}
