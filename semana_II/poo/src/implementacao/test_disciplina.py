@@ -8,4 +8,4 @@ disciplina = Disciplina('arquitetura')
 disciplina.professor = professor
 
 print(disciplina.nome)
-# print(disciplina.professor.nome)
+print(disciplina.professor.nome)

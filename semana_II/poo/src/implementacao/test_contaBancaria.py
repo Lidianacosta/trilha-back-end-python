@@ -1,4 +1,4 @@
-from contaBancaria import ContaBancaria
+from conta_Bancaria import ContaBancaria
 
 conta = ContaBancaria(2000)
 

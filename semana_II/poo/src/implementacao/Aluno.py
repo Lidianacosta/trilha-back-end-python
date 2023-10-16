@@ -8,8 +8,8 @@ class Aluno:
 
     @nome.setter
     def nome(self, nome):
-        self._nome = nome
+        self.__nome = nome
 
     @nome.getter
     def nome(self):
-        return self._nome
+        return self.__nome
