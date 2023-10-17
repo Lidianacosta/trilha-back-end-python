@@ -1,6 +1,6 @@
 from Disciplina import Disciplina
-
 from Professor import Professor
+
 
 professor = Professor('samuel')
 disciplina = Disciplina('arquitetura')
