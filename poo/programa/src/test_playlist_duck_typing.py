@@ -12,7 +12,6 @@ playlist_ferias = Playlist(
     ]
 )
 
-
 playlist_ferias[0].dar_like()
 playlist_ferias[0].dar_like()
 playlist_ferias[1].dar_like()
