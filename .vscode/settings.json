@@ -4,8 +4,15 @@
     "files.autoSave": "off",
     "[python]": {
         "editor.defaultFormatter": "ms-python.autopep8",
-        "editor.formatOnSave": true
+        "editor.formatOnSave": true,
+        
     },
     "explorer.compactFolders": false,
     "editor.wordWrap": "on",
+    
+    "code-runner.executorMap": {
+        "python": "clear; python -u",
+    },
+
+    "code-runner.runInTerminal": true,
 }
