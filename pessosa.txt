@@ -1,0 +1,3 @@
+Lidiana;20
+Ana;50
+Julia;13
